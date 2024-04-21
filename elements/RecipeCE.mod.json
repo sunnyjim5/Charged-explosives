@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "REDSTONE",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.DRIED_KELP"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "Items.DRIED_KELP"
+      },
+      {
+        "value": "Items.CLAY_BALL"
+      },
+      {
+        "value": "Blocks.TNT"
+      },
+      {
+        "value": "Items.CLAY_BALL"
+      },
+      {
+        "value": "Items.DRIED_KELP"
+      },
+      {
+        "value": "Blocks.TNT"
+      },
+      {
+        "value": "Items.DRIED_KELP"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChargedExplosive"
+    },
+    "name": "recipe_ce",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "charged_explosives:block/charged_explosive"
+    }
+  }
+}

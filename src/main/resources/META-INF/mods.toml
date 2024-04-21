@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="charged_explosives"
+version="4.20.24.1"
+displayName="Charged Explosives"
+displayURL="https://github.com/sunnyjim5"
+logoFile="logo.png"
+credits="SunnyJim"
+authors="SunnyJim"
+description="Instant Explosives with more power"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.charged_explosives]]
+    modId="neoforge"
+    type="required"
+    versionRange="[20.4.223,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.charged_explosives]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.20.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

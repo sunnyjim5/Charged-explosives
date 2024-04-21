@@ -1,0 +1,9 @@
+{
+  "parent": "charged_explosives:custom/charged_explosive",
+  "textures": {
+    "all": "charged_explosives:block/bomb",
+    "particle": "charged_explosives:block/bomb",
+    "0": "charged_explosives:block/bomb"
+  },
+  "render_type": "solid"
+}
